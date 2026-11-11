@@ -16,11 +16,11 @@ This repository contains practical C++ projects created to improve my programmin
 
 | No. | Project | Description | Status |
 |---|---|---|---|
-| 01 | Calculator | Basic arithmetic operations | Planned |
-| 02 | Number Guessing Game | Guess a randomly generated number | Planned |
-| 03 | Student Record System | Manage student information | Planned |
-| 04 | Banking Simulation | Simulate basic banking operations | Planned |
-| 05 | Quiz Application | Answer questions and calculate scores | Planned |
+| 01 | Calculator | Basic arithmetic operations | done |
+| 02 | Number Guessing Game | Guess a randomly generated number | done |
+| 03 | Student Record System | Manage student information | done |
+| 04 | Banking Simulation | Simulate basic banking operations | done |
+| 05 | Quiz Application | Answer questions and calculate scores | done |
 
 ## 🛠️ Technologies
 
